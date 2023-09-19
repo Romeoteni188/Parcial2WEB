@@ -1,8 +1,8 @@
 
 ## Hecho por la tecnologia Laravel v.10, Composer y boostrap
-Segundo parcial 2023
-Curo desarrollo web
-Plan diario
+-Segundo parcial 2023
+-Curo desarrollo web
+-Plan diario
 
 ## Bienvinidos a la compañia la ferreteria
 <p align="center">
